@@ -12,6 +12,7 @@ public class Main {
         printable.add(magazine);
         printable.add(book);
 
+
     }
 }
 
